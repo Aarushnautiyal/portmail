@@ -33,6 +33,9 @@ const About = () => {
               <Link to="/projects">Projects</Link>
             </li>
             <li>
+              <a href="resume.pdf">Resume</a>
+            </li>
+            <li>
               <Link to="/contact">Get in Touch</Link>
             </li>
           </ul>
@@ -46,13 +49,25 @@ const About = () => {
             <p>
               There are alot of things that i love to do and programming is one
               of them, I also like <strong>Graphic & logo Designing</strong>{" "}
-              stuff but i always have a itch for solving things up u know
+              stuff but i always have an itch for solving things up u know
               &#128521;, but apart from computers i also like{" "}
               <strong>dancing</strong> and <strong>reading</strong> and Most of
               all watching <strong>Anime</strong>
               and that's sums it up for now don't forget to check my{" "}
               <strong>Projects</strong>
             </p>
+            <div class="mid-icon">
+              <h2>
+                <a href="http://github.com/aarushnautiyal">
+                  <i class="fab fa-github-alt"></i>
+                </a>
+              </h2>
+              <h2>
+                <a href="http://dev.to/aarushnautiyal">
+                  <i class="fab fa-dev"></i>
+                </a>
+              </h2>
+            </div>
           </div>
           <div className="hero2">
             <img

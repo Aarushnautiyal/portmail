@@ -1,0 +1,134 @@
+%% Creator: Inkscape 1.0.1 (3bc2e813f5, 2020-09-07), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'resume.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{595.27555847bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,1.41428575)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0.32936093,1.32099359){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}SANDEEP NAUTIYAL\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{resume.pdf}}%
+    \put(0.39312103,1.19685628){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}PROFILE\end{tabular}}}}%
+    \put(0.39277409,1.15997142){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}A creative thinker, adept in software devlopment and working with\\various data structures. Bringing forth a motivated attitude and \\variety of powerful skills. Committed to working as a collaborative \\and positive team member, striving to utilise my knowledge and \\expertise for optimal engineering results.\end{tabular}}}}%
+    \put(0.39312103,1.002829){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}PROJECTS\\EDUCATION\\ACHIEVEMENTS\end{tabular}}}}%
+    \put(0.39277409,0.97098316){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{D}\textbf{E}\textbf{V}\textbf{L}\textbf{O}\textbf{P}\textbf{E}\textbf{R}\textbf{ }\textbf{M}\textbf{E}\textbf{D}\textbf{I}\textbf{A}\textbf{ }\textbf{[}\textbf{M}\textbf{E}\textbf{R}\textbf{N}\textbf{ }\textbf{S}\textbf{T}\textbf{A}\textbf{C}\textbf{K}\textbf{]}\end{tabular}}}}%
+    \put(0.39277409,0.94326481){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Devloper Media is a \end{tabular}}}}%
+    \put(0.5641402,0.94326481){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{M}\textbf{e}\textbf{r}\textbf{n}\textbf{ }\textbf{S}\textbf{t}\textbf{a}\textbf{c}\textbf{k}\end{tabular}}}}%
+    \put(0.67620603,0.94326481){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Application which is deployed \\over \end{tabular}}}}%
+    \put(0.43552745,0.92226608){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{h}\textbf{e}\textbf{r}\textbf{o}\textbf{k}\textbf{u}\end{tabular}}}}%
+    \put(0.50179929,0.92226608){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}, It is an application that helps devloper to connect \\and help fellow devlopers and also helps to showcase there github \\repos. The source code is in \end{tabular}}}}%
+    \put(0.63264633,0.88026872){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{g}\textbf{i}\textbf{t}\textbf{h}\textbf{u}\textbf{b}\end{tabular}}}}%
+    \put(0.69965739,0.88026872){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}for further devlopment. \end{tabular}}}}%
+    \put(0.39277409,0.83239184){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{W}\textbf{E}\textbf{B}\textbf{S}\textbf{C}\textbf{R}\textbf{A}\textbf{P}\textbf{P}\textbf{E}\textbf{R}\textbf{ }\textbf{[}\textbf{P}\textbf{Y}\textbf{T}\textbf{H}\textbf{O}\textbf{N}\textbf{]}\end{tabular}}}}%
+    \put(0.39277409,0.80215379){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}This Project was devloped for \end{tabular}}}}%
+    \put(0.64437201,0.80215379){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{e}\textbf{x}\textbf{t}\textbf{r}\textbf{a}\textbf{c}\textbf{t}\textbf{i}\textbf{n}\textbf{g}\textbf{ }\textbf{d}\textbf{a}\textbf{t}\textbf{a}\end{tabular}}}}%
+    \put(0.79576417,0.80215379){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}from websites. The \\testing of the project was completely done on dummy data site \\hosted globally. The project is in my \end{tabular}}}}%
+    \put(0.70032934,0.76015644){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{g}\textbf{i}\textbf{t}\textbf{h}\textbf{u}\textbf{b}\end{tabular}}}}%
+    \put(0.76734034,0.76015644){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}for further use.\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{resume.pdf}}%
+    \put(0.39277409,0.70388131){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{Y}\textbf{O}\textbf{U}\textbf{T}\textbf{U}\textbf{B}\textbf{E}\textbf{ }\textbf{U}\textbf{.}\textbf{I}\textbf{.}\textbf{ }\textbf{C}\textbf{L}\textbf{O}\textbf{N}\textbf{E}\textbf{ }\textbf{[}\textbf{R}\textbf{E}\textbf{A}\textbf{C}\textbf{T}\textbf{]}\end{tabular}}}}%
+    \put(0.39277409,0.67364363){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Using \end{tabular}}}}%
+    \put(0.44505247,0.67364363){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{R}\textbf{e}\textbf{a}\textbf{c}\textbf{t}\textbf{ }\textbf{J}\textbf{S}\textbf{ }\end{tabular}}}}%
+    \put(0.52871123,0.67364363){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}the youtube user interface was devloped, this \\clone also used \end{tabular}}}}%
+    \put(0.52814007,0.6526449){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{M}\textbf{a}\textbf{t}\textbf{e}\textbf{r}\textbf{i}\textbf{a}\textbf{l}\textbf{ }\textbf{U}\textbf{I}\textbf{ }\end{tabular}}}}%
+    \put(0.63827399,0.6526449){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}for designing purposes and also\end{tabular}}}}%
+    \put(0.39277409,0.63164622){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{M}\textbf{a}\textbf{t}\textbf{e}\textbf{r}\textbf{i}\textbf{a}\textbf{l}\textbf{ }\textbf{I}\textbf{c}\textbf{o}\textbf{n}\textbf{s}\end{tabular}}}}%
+    \put(0.53217181,0.63164622){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}for various icons. \end{tabular}}}}%
+    \put(0.39277409,0.58041073){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{R}\textbf{O}\textbf{C}\textbf{K}\textbf{,}\textbf{ }\textbf{P}\textbf{A}\textbf{P}\textbf{E}\textbf{R}\textbf{,}\textbf{ }\textbf{S}\textbf{C}\textbf{I}\textbf{S}\textbf{S}\textbf{O}\textbf{R}\textbf{ }\textbf{[}\textbf{P}\textbf{Y}\textbf{T}\textbf{H}\textbf{O}\textbf{N}\textbf{]}\end{tabular}}}}%
+    \put(0.39277409,0.55017299){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Rock, Paper, Scissors are one of my favourite game that is why \\this game was devloped it can be played by two people at a time.\\This Project was complete devloped in \end{tabular}}}}%
+    \put(0.7203033,0.50817564){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{P}\textbf{y}\textbf{t}\textbf{h}\textbf{o}\textbf{n}\textbf{ }\textbf{3}\end{tabular}}}}%
+    \put(0.80483559,0.50817564){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}.\end{tabular}}}}%
+    \put(0.39277409,0.40402424){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{B}\textbf{S}\textbf{c}\textbf{(}\textbf{I}\textbf{.}\textbf{T}\textbf{.}\textbf{)}\textbf{[}\end{tabular}}}}%
+    \put(0.47858986,0.40402424){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{O}\textbf{m}\textbf{k}\textbf{a}\textbf{r}\textbf{a}\textbf{n}\textbf{a}\textbf{n}\textbf{d}\textbf{a}\textbf{ }\textbf{I}\textbf{n}\textbf{s}\textbf{t}\textbf{i}\textbf{t}\textbf{u}\textbf{t}\textbf{e}\textbf{ }\textbf{O}\textbf{f}\textbf{ }\textbf{M}\textbf{a}\textbf{n}\textbf{a}\textbf{g}\textbf{e}\textbf{m}\textbf{e}\textbf{n}\textbf{t}\textbf{ }\textbf{a}\textbf{n}\textbf{d}\textbf{ }\textbf{T}\textbf{e}\textbf{c}\textbf{h}\textbf{n}\textbf{o}\textbf{l}\textbf{o}\textbf{g}\textbf{y}\end{tabular}}}}%
+    \put(0.90263811,0.40402424){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{]}\end{tabular}}}}%
+    \put(0.39781377,0.38134598){\color[rgb]{0.2,0.2,0.2}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}August 2016 - June 2019\end{tabular}}}}%
+    \put(0.39277409,0.33850919){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{M}\textbf{S}\textbf{c}\textbf{(}\textbf{C}\textbf{.}\textbf{S}\textbf{.}\textbf{)}\textbf{[}\end{tabular}}}}%
+    \put(0.49177145,0.33850919){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{O}\textbf{m}\textbf{k}\textbf{a}\textbf{r}\textbf{a}\textbf{n}\textbf{a}\textbf{n}\textbf{d}\textbf{a}\textbf{ }\textbf{I}\textbf{n}\textbf{s}\textbf{t}\textbf{i}\textbf{t}\textbf{u}\textbf{t}\textbf{e}\textbf{ }\textbf{O}\textbf{f}\textbf{ }\textbf{M}\textbf{a}\textbf{n}\textbf{a}\textbf{g}\textbf{e}\textbf{m}\textbf{e}\textbf{n}\textbf{t}\textbf{ }\textbf{a}\textbf{n}\textbf{d}\textbf{ }\textbf{T}\textbf{e}\textbf{c}\textbf{h}\textbf{n}\textbf{o}\textbf{l}\textbf{o}\textbf{g}\textbf{y}\end{tabular}}}}%
+    \put(0.91581971,0.33850919){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{]}\end{tabular}}}}%
+    \put(0.39781377,0.31583093){\color[rgb]{0.2,0.2,0.2}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}August 2019 - June 2021\end{tabular}}}}%
+    \put(0.39277409,0.21503871){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{P}\textbf{Y}\textbf{T}\textbf{H}\textbf{O}\textbf{N}\textbf{ }\textbf{W}\textbf{O}\textbf{R}\textbf{K}\textbf{S}\textbf{H}\textbf{O}\textbf{P}\end{tabular}}}}%
+    \put(0.41797253,0.19236024){\color[rgb]{0.2,0.2,0.2}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}FEB 2018\end{tabular}}}}%
+    \put(0.39277409,0.15960179){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{N}\textbf{E}\textbf{T}\textbf{W}\textbf{O}\textbf{R}\textbf{K}\textbf{ }\textbf{S}\textbf{E}\textbf{C}\textbf{U}\textbf{R}\textbf{I}\textbf{T}\textbf{Y}\end{tabular}}}}%
+    \put(0.41797253,0.13692291){\color[rgb]{0.2,0.2,0.2}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}MAY 2019\end{tabular}}}}%
+    \put(0.39277409,0.10164451){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{P}\textbf{Y}\textbf{T}\textbf{H}\textbf{O}\textbf{N}\textbf{ }\textbf{1}\textbf{0}\textbf{1}\textbf{ }\textbf{F}\textbf{O}\textbf{R}\textbf{ }\textbf{D}\textbf{A}\textbf{T}\textbf{A}\textbf{S}\textbf{C}\textbf{I}\textbf{E}\textbf{N}\textbf{C}\textbf{E}\textbf{ }\textbf{[}\end{tabular}}}}%
+    \put(0.70475234,0.10164451){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{c}\textbf{o}\textbf{g}\textbf{n}\textbf{i}\textbf{t}\textbf{i}\textbf{v}\textbf{e}\textbf{c}\textbf{l}\textbf{a}\textbf{s}\textbf{s}\textbf{.}\textbf{a}\textbf{i}\end{tabular}}}}%
+    \put(0.8310724,0.10164451){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{]}\end{tabular}}}}%
+    \put(0.41797253,0.07896563){\color[rgb]{0.2,0.2,0.2}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}OCT 2018\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{resume.pdf}}%
+    \put(0.154996,1.19685595){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}DETAILS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{resume.pdf}}%
+    \put(0.03999605,1.15997142){\color[rgb]{0.2,0.2,0.2}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}sandeepnautiyal1115@gmail.com\end{tabular}}}}%
+    \put(0.11341857,1.08094323){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}PORTFOLIO LINK\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{resume.pdf}}%
+    \put(0.04503573,1.05161814){\color[rgb]{0.2,0.2,0.2}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}https://afolio.herokuapp.com/\end{tabular}}}}%
+    \put(0.16003568,0.95495205){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}SKILLS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{resume.pdf}}%
+    \put(0.10551192,0.90798708){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{M}\textbf{E}\textbf{R}\textbf{N}\textbf{ }\textbf{S}\textbf{T}\textbf{A}\textbf{C}\textbf{K}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{resume.pdf}}%
+    \put(0.10551192,0.84499105){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{P}\textbf{Y}\textbf{T}\textbf{H}\textbf{O}\textbf{N}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{resume.pdf}}%
+    \put(0.10551192,0.77947553){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{J}\textbf{A}\textbf{V}\textbf{A}\textbf{S}\textbf{C}\textbf{R}\textbf{I}\textbf{P}\textbf{T}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{resume.pdf}}%
+    \put(0.10551192,0.71396053){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{G}\textbf{I}\textbf{T}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{resume.pdf}}%
+    \put(0.10551192,0.65096536){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{L}\textbf{I}\textbf{N}\textbf{U}\textbf{X}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{resume.pdf}}%
+    \put(0.10551192,0.58545036){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{I}\textbf{N}\textbf{K}\textbf{S}\textbf{C}\textbf{A}\textbf{P}\textbf{E}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{resume.pdf}}%
+    \put(0.10551192,0.51993531){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{F}\textbf{I}\textbf{G}\textbf{M}\textbf{A}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=13]{resume.pdf}}%
+    \put(0.04762011,1.1370211){\color[rgb]{0.30196078,0.30196078,0.30196078}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}[+91 8433171172, 7037154224]\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=14]{resume.pdf}}%
+    \put(0.1499563,0.35270903){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}HOBBIES\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=15]{resume.pdf}}%
+    \put(0.10551192,0.45945911){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{Adobe XD}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=16]{resume.pdf}}%
+  \end{picture}%
+\endgroup%

@@ -33,6 +33,9 @@ const Home = () => {
               <Link to="/projects">Projects</Link>
             </li>
             <li>
+              <a href="resume.pdf">Resume</a>
+            </li>
+            <li>
               <Link to="/contact">Get in Touch</Link>
             </li>
           </ul>

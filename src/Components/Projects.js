@@ -33,6 +33,9 @@ const Projects = () => {
               <Link to="/projects">Projects</Link>
             </li>
             <li>
+              <a href="resume.pdf">Resume</a>
+            </li>
+            <li>
               <Link to="/contact">Get in Touch</Link>
             </li>
           </ul>
@@ -49,9 +52,11 @@ const Projects = () => {
                 <img src="/images/devloper.jpeg" alt="Avatar" />
               </a>
               <div className="container">
-                <h4>
-                  <b>Devloper Media</b>
-                </h4>
+                <a href="http://github.com/Aarushnautiyal/Devlopermedia_app">
+                  <h4>
+                    <b>Devloper Media</b>
+                  </h4>
+                </a>
                 <p>
                   A <strong>Social Media</strong> project <br />(
                   <strong>tech:</strong> Mern Stack)
@@ -63,9 +68,11 @@ const Projects = () => {
                 <img src="/images/webscrapper.png" alt="Avatar" />
               </a>
               <div className="container">
-                <h4>
-                  <b>Web Scrapper</b>
-                </h4>
+                <a href="https://github.com/Aarushnautiyal/webScrapper">
+                  <h4>
+                    <b>Web Scrapper</b>
+                  </h4>
+                </a>
                 <p>
                   A <strong>Web Scrapping</strong> project <br />(
                   <strong>Lang:</strong> Python)
@@ -77,9 +84,11 @@ const Projects = () => {
                 <img src="/images/emotion.jpeg" alt="Avatar" />
               </a>
               <div className="container">
-                <h4>
-                  <b>Emotion Analysis</b>
-                </h4>
+                <a href="https://github.com/Aarushnautiyal/FaceDetection">
+                  <h4>
+                    <b>Emotional Analysis</b>
+                  </h4>
+                </a>
                 <p>
                   A <strong>Model Based</strong> project <br />(
                   <strong>Lang:</strong> JavaScript)

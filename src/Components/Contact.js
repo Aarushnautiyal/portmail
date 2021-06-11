@@ -56,6 +56,9 @@ const Contact = () => {
               <Link to="/projects">Projects</Link>
             </li>
             <li>
+              <a href="resume.pdf">Resume</a>
+            </li>
+            <li>
               <Link to="/contact">Get in Touch</Link>
             </li>
           </ul>
@@ -72,19 +75,15 @@ const Contact = () => {
 
                   <h4>Or Call Me : 8433171172</h4>
                 </div>
-                <div className="alert">
-                  <h1>
-                    I am Sorry the Form is broken <br />
-                    <strong>
-                      (Mail me @ : <br /> sandeepnautiyal1115@gmail.com)
-                    </strong>
-                  </h1>
-                </div>
                 <div className="contactform">
                   <form onSubmit={sendEmail}>
                     <div className="row100">
                       <div className="inputBx50">
-                        <input type="text" name="name" placeholder="Full Name" />
+                        <input
+                          type="text"
+                          name="name"
+                          placeholder="Full Name"
+                        />
                       </div>
                       <div className="inputBx50">
                         <input
@@ -96,12 +95,15 @@ const Contact = () => {
                     </div>
                     <div className="row100">
                       <div className="inputBx100">
-                        <textarea name="message" placeholder="Message"></textarea>
+                        <textarea
+                          name="message"
+                          placeholder="Message"
+                        ></textarea>
                       </div>
                     </div>
                     <div className="row100">
                       <div className="inputBx100">
-                        <input type="submit"  value="Send" />
+                        <input type="submit" value="Send" />
                       </div>
                     </div>
                   </form>
