@@ -114,12 +114,12 @@ const Contact = () => {
           <div className="hero2">
             <img
               className="profile-left"
-              src="./images/profile-left.jpg"
+              src="./images/about-left.jpg"
               alt="profile"
             />
             <img
               className="profile-right"
-              src="./images/profile-right.jpg"
+              src="./images/about-right.jpg"
               alt="profile"
             />
           </div>

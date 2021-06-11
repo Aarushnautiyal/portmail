@@ -32,7 +32,7 @@ nav a{
 }
 
 .page {
-    min-height: 90vh;
+    min-height: 100vh;
     display: grid;
     grid-template-columns: 5% 1fr 1fr 1fr 5%;
 }
@@ -115,7 +115,7 @@ i{
     max-height: 20%;
 }
 .about{
-    min-height: 90vh;
+    min-height: 100vh;
     display: grid;
     grid-template-columns: 5% 1fr 2fr 1fr 5%;
 }
@@ -170,7 +170,7 @@ i{
 /* Projects */
 
 .projects {
-    min-height: 90vh;
+    min-height: 100vh;
 }
 
 .projects h1{
