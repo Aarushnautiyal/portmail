@@ -21,7 +21,8 @@ const Contact = () => {
           console.log(error.text);
         }
       );
-      e.target.reset()
+      e.target.reset();
+      alert("thank you for contacting i'll be in touch");
   }
    // for email
   const toggle = (e) => {
